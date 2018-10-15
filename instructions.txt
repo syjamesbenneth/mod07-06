@@ -1,0 +1,14 @@
+create tasklist.json
+create an array of 3 jsons with task and done
+index.php open and decode the json file to an associative array
+xxx
+reading from file
+file(json)->string->assoc array
+
+xxx
+display the elements of the associative array in an unordered list
+xxx
+create an input field that when the enter is clicked it would alert the content of the input file
+
+in create.php open the file and get the assoc array equivalent 
+push the new task added to the curent content of the assoc array
